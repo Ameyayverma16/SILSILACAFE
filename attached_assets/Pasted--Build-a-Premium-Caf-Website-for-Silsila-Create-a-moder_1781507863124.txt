@@ -1,0 +1,400 @@
+# Build a Premium Café Website for "Silsila"
+
+Create a modern, luxury, highly aesthetic, fully responsive website for a café brand named **Silsila** located in Haldwani, Uttarakhand, India.
+
+## Business Information
+
+**Cafe Name:** Silsila
+
+**Tagline:** Every Sip Tells a Story
+
+**Category:** Specialty Coffee Shop & Brunch Café
+
+**Address:** JK Tower, Bareilly-Nainital Road, Near Brij Lal Hospital, Tedhi Pulia, Bhotia Parao, Haldwani, Uttarakhand 263139
+
+**Phone:** +91 83778 93379
+
+**Google Rating:** 4.3★ (131+ Reviews)
+
+**Specialties:**
+
+* Specialty Coffee
+* Iced Americano
+* Matcha
+* Tiramisu Latte
+* Oat Milk Iced Latte
+* Hot Chocolate with Marshmallows
+* Avocado Toast
+* Fresh Bakery & Desserts
+* Brunch Menu
+
+**Brand Personality:**
+Warm, cozy, modern, artistic, welcoming, premium, work-friendly, Instagram-worthy, youthful yet sophisticated.
+
+---
+
+# Design Direction
+
+Create a world-class café website that feels comparable to premium brands.
+
+### Visual Style
+
+* Modern Café Luxury
+* Scandinavian + Contemporary Coffee House aesthetic
+* Minimal yet visually rich
+* Elegant typography
+* Smooth interactions
+* High-end photography sections
+* Immersive storytelling
+
+### Color Palette
+
+Primary:
+
+* Deep Coffee Brown (#3E2723)
+
+Secondary:
+
+* Caramel Latte (#B87333)
+
+Accent:
+
+* Warm Cream (#F8F4EE)
+
+Highlight:
+
+* Sage Green (#A8BBA3)
+
+Dark:
+
+* Rich Espresso (#1A120B)
+
+Text:
+
+* Charcoal (#2D2D2D)
+
+Use gradients, glassmorphism effects, subtle shadows, and premium visual depth.
+
+---
+
+# Typography
+
+Use Google Fonts:
+
+Headings:
+
+* Playfair Display
+
+Subheadings:
+
+* Cormorant Garamond
+
+Body:
+
+* Poppins
+
+Buttons:
+
+* Montserrat
+
+Create elegant font hierarchy throughout the website.
+
+---
+
+# Technical Requirements
+
+Use:
+
+* React
+* Next.js
+* Tailwind CSS
+* Framer Motion
+* Lucide Icons
+* GSAP for advanced animations
+* Responsive Design
+* SEO Optimized
+* Fast Loading
+* Accessible Design
+
+---
+
+# Website Structure
+
+## 1. Hero Section
+
+Full-screen premium hero.
+
+Include:
+
+* Beautiful café background image/video
+* Floating coffee steam effect
+* Smooth parallax scrolling
+* Animated headline
+
+Headline:
+
+"Savor Every Moment at Silsila"
+
+Subheadline:
+
+"Crafting exceptional coffee, delightful brunches, and unforgettable experiences in the heart of Haldwani."
+
+Buttons:
+
+* View Menu
+* Reserve a Table
+
+Include:
+
+* Animated coffee cup illustration
+* Scroll indicator animation
+
+---
+
+## 2. About Section
+
+Luxury storytelling section.
+
+Title:
+
+"The Story of Silsila"
+
+Content:
+
+"Silsila is more than a café. It is a space where conversations flow, creativity thrives, and every cup is crafted with passion. From specialty coffee and artisanal desserts to wholesome brunches, we bring people together through exceptional flavors and warm hospitality."
+
+Include:
+
+* Image gallery
+* Floating elements
+* Fade-in animations
+
+---
+
+## 3. Signature Menu Section
+
+Create beautiful menu cards with hover effects.
+
+Categories:
+
+### Coffee
+
+* Iced Americano
+* Cappuccino
+* Espresso
+* Flat White
+* Latte
+
+### Special Drinks
+
+* Tiramisu Latte
+* Matcha Latte
+* Oat Milk Iced Latte
+* Hot Chocolate
+
+### Brunch
+
+* Avocado Toast
+* Sandwiches
+* Fresh Bakery Selection
+
+Each card should have:
+
+* Image
+* Description
+* Hover animation
+* Elegant layout
+
+---
+
+## 4. Customer Experience Section
+
+Showcase customer highlights.
+
+Create animated review cards using actual customer sentiments:
+
+Review 1:
+"Great experience, lovely staff and the best tiramisu pastry in town."
+
+Review 2:
+"Really enjoyed the ambience, food, and cozy atmosphere."
+
+Review 3:
+"A beautiful place to relax, work, and enjoy specialty coffee."
+
+Display:
+
+* 4.3 Rating
+* 131+ Reviews
+
+Use animated star ratings.
+
+---
+
+## 5. Why Choose Us
+
+Create premium icon cards.
+
+Features:
+
+☕ Specialty Coffee
+
+🥐 Fresh Bakery
+
+🌱 Oat Milk Options
+
+💻 Work Friendly Space
+
+❤️ Cozy Ambience
+
+🌈 Inclusive & LGBTQ+ Friendly
+
+Add hover interactions and motion effects.
+
+---
+
+## 6. Gallery Section
+
+Masonry-style premium gallery.
+
+Features:
+
+* Lightbox
+* Hover zoom
+* Smooth transitions
+* Instagram-inspired layout
+
+Use placeholder café images.
+
+---
+
+## 7. Visit Us Section
+
+Include:
+
+Interactive Google Map Embed
+
+Address
+
+Working Hours:
+Open Daily
+6:00 AM – 8:00 PM
+
+Contact:
++91 83778 93379
+
+Include:
+
+* Directions button
+* Call button
+
+---
+
+## 8. Instagram Section
+
+Create stylish social feed layout.
+
+Display:
+
+* Latest café moments
+* Coffee photography
+* Customer experiences
+
+Use placeholders.
+
+---
+
+## 9. Reservation CTA
+
+Luxury section.
+
+Headline:
+
+"Reserve Your Cozy Corner"
+
+Button:
+
+"Book a Table"
+
+Background:
+Parallax coffee beans animation.
+
+---
+
+## 10. Footer
+
+Include:
+
+Logo
+
+Quick Links
+
+Menu
+
+Contact Details
+
+Social Media Icons
+
+Copyright
+
+"© Silsila Café. Every Sip Tells a Story."
+
+---
+
+# Advanced Animations
+
+Implement:
+
+* Scroll-triggered animations
+* GSAP parallax effects
+* Framer Motion transitions
+* Floating coffee beans
+* Steam animations
+* Smooth reveal effects
+* Image hover zoom
+* Glassmorphism cards
+* Animated counters
+* Loading screen animation
+
+---
+
+# SEO
+
+Generate:
+
+Meta Title:
+Silsila Café | Premium Coffee & Brunch Café in Haldwani
+
+Meta Description:
+Experience specialty coffee, delicious brunches, artisanal desserts, and cozy café vibes at Silsila Café in Haldwani.
+
+Keywords:
+Silsila Cafe, Best Cafe in Haldwani, Coffee Shop Haldwani, Brunch Cafe Uttarakhand, Specialty Coffee Haldwani, Tiramisu Latte Haldwani
+
+---
+
+# Performance
+
+* Mobile First
+* Fully Responsive
+* Lighthouse Score 95+
+* Optimized Images
+* Lazy Loading
+* Smooth Performance
+
+---
+
+# Deliverables
+
+Generate complete production-ready code including:
+
+* React Components
+* Next.js Structure
+* Tailwind Styling
+* Framer Motion Animations
+* GSAP Effects
+* Responsive Layout
+* SEO Setup
+* Modern Folder Structure
+
+Build the entire website as a polished, premium café experience that feels luxurious, warm, memorable, and visually stunning.

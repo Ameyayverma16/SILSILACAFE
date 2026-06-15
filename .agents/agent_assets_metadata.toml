@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "039csC9X1VkM5vBDQuc66"
+uri = "file://artifacts/silsila-cafe/src/assets/images/hero.png"
+type = "image"
+title = "Moody cafe interior"
+
+[[generated]]
+id = "mZWhnwTkl5Y75Okp6tOQ3"
+uri = "file://artifacts/silsila-cafe/src/assets/images/about.png"
+type = "image"
+title = "Barista making coffee"
+
+[[generated]]
+id = "j0zZoXeb76FG6IaUnxv-V"
+uri = "file://artifacts/silsila-cafe/src/assets/images/menu-coffee.png"
+type = "image"
+title = "Iced latte"
+
+[[generated]]
+id = "_BvkMHDrGa3v-6TgTWvjG"
+uri = "file://artifacts/silsila-cafe/src/assets/images/menu-special.png"
+type = "image"
+title = "Matcha latte"
+
+[[generated]]
+id = "4QUYsRGJScxJrqqMX_WbL"
+uri = "file://artifacts/silsila-cafe/src/assets/images/menu-brunch.png"
+type = "image"
+title = "Avocado toast"
+
+[[generated]]
+id = "PM0E0X0A6cbM_JXekRR5K"
+uri = "file://artifacts/silsila-cafe/src/assets/images/gallery-1.png"
+type = "image"
+title = "Cafe gallery 1"
+
+[[generated]]
+id = "G8uOZipDL3Ep8qIQMCWlR"
+uri = "file://artifacts/silsila-cafe/src/assets/images/gallery-2.png"
+type = "image"
+title = "Cafe gallery 2"
+
+[[generated]]
+id = "bp-mA3vUJGN4LpKvwVDoc"
+uri = "file://artifacts/silsila-cafe/src/assets/images/gallery-3.png"
+type = "image"
+title = "Cafe gallery 3"
+
+[[generated]]
+id = "hopsBUCr2NH4noCAGTSkt"
+uri = "file://artifacts/silsila-cafe/src/assets/images/gallery-4.png"
+type = "image"
+title = "Cafe gallery 4"
+
+[[generated]]
+id = "xUwaXmYWcFORpTds68HLA"
+uri = "file://artifacts/silsila-cafe/src/assets/images/cta-bg.png"
+type = "image"
+title = "Coffee beans background"
