@@ -8,14 +8,18 @@ import gallery3 from '@/assets/images/gallery-3.png';
 import gallery4 from '@/assets/images/gallery-4.png';
 import heroImage from '@/assets/images/hero.png';
 import aboutImage from '@/assets/images/about.png';
+import storefront from '@assets/Screenshot_2026-06-15_130020_1781508657208.png';
+import tiramisuLatte from '@assets/Screenshot_2026-06-15_130035_1781508657210.png';
 
 const images = [
-  { src: gallery1, alt: "Cafe interior", className: "col-span-1 md:col-span-2 row-span-2" },
+  { src: storefront, alt: "Silsila Café storefront", className: "col-span-1 md:col-span-2 row-span-2" },
+  { src: tiramisuLatte, alt: "Tiramisu latte", className: "col-span-1 row-span-2" },
+  { src: gallery1, alt: "Cafe interior", className: "col-span-1 row-span-1" },
   { src: gallery2, alt: "Espresso machine", className: "col-span-1 row-span-1" },
+  { src: heroImage, alt: "Latte art top down", className: "col-span-1 md:col-span-2 row-span-1" },
+  { src: aboutImage, alt: "Barista working", className: "col-span-1 row-span-1" },
   { src: gallery3, alt: "Pastries", className: "col-span-1 row-span-1" },
-  { src: heroImage, alt: "Latte art top down", className: "col-span-1 row-span-2" },
-  { src: aboutImage, alt: "Barista working", className: "col-span-1 md:col-span-2 row-span-1" },
-  { src: gallery4, alt: "People enjoying coffee", className: "col-span-1 md:col-span-1 row-span-1" },
+  { src: gallery4, alt: "People enjoying coffee", className: "col-span-1 row-span-1" },
 ];
 
 export function Gallery() {
