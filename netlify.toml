@@ -1,0 +1,9 @@
+[build]
+  base    = "."
+  command = "npm install -g pnpm && pnpm install && pnpm --filter @workspace/silsila-cafe run build:netlify"
+  publish = "artifacts/silsila-cafe/dist/public"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
