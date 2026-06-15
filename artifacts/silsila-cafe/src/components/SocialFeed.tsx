@@ -31,7 +31,7 @@ export function SocialFeed() {
             className="text-accent font-button font-medium tracking-wide hover:underline underline-offset-4"
             data-testid="link-instagram"
           >
-            @silsilacafe
+            @silsila.life
           </a>
         </div>
       </div>

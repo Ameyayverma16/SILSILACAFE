@@ -31,7 +31,7 @@ export function Gallery() {
             <p className="text-muted-foreground font-body max-w-lg">Glimpses of our space, our craft, and the moments shared within these walls.</p>
           </div>
           <div className="hidden md:block">
-            <span className="text-accent tracking-[0.2em] uppercase text-sm font-semibold">@silsilacafe</span>
+            <span className="text-accent tracking-[0.2em] uppercase text-sm font-semibold">@silsila.life</span>
           </div>
         </div>
 
