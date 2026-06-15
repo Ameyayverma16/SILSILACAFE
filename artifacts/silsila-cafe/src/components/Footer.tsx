@@ -47,7 +47,7 @@ export function Footer() {
             <h4 className="font-heading font-semibold text-lg mb-6">Hours</h4>
             <ul className="space-y-3 font-body text-sm text-primary-foreground/70">
               <li>Mon - Sun</li>
-              <li>6:00 AM – 8:00 PM</li>
+              <li>9:00 AM – 8:00 PM</li>
             </ul>
           </div>
 

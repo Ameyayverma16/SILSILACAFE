@@ -37,7 +37,7 @@ export function VisitUs() {
                 </div>
                 <div>
                   <h4 className="font-heading font-bold text-primary text-xl mb-1">Hours</h4>
-                  <p className="text-muted-foreground font-body">Open Daily<br/>6:00 AM – 8:00 PM</p>
+                  <p className="text-muted-foreground font-body">Open Daily<br/>9:00 AM – 8:00 PM</p>
                 </div>
               </div>
 
