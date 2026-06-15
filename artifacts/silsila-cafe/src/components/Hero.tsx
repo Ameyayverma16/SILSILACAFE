@@ -1,14 +1,17 @@
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import heroImage from '@/assets/images/hero.png';
+import heroImage from '@assets/Screenshot_2026-06-15_130020_1781508734087.png';
 
 export function Hero() {
   return (
     <section id="home" className="relative h-[100dvh] min-h-[600px] flex items-center justify-center overflow-hidden">
       {/* Background */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-black/40 z-10" />
+        {/* Foggy layered overlays */}
+        <div className="absolute inset-0 bg-[#1A120B]/50 z-10" />
+        <div className="absolute inset-0 z-10 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 z-10 bg-gradient-to-b from-[#3E2723]/40 via-transparent to-[#1A120B]/70" />
         <motion.div
           initial={{ scale: 1.1 }}
           animate={{ scale: 1 }}
@@ -17,8 +20,8 @@ export function Hero() {
         >
           <img 
             src={heroImage} 
-            alt="Silsila Cafe aesthetic latte art" 
-            className="w-full h-full object-cover"
+            alt="Silsila Cafe storefront" 
+            className="w-full h-full object-cover opacity-70"
           />
         </motion.div>
       </div>
