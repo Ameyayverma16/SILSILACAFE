@@ -2,24 +2,22 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
 
-import gallery1 from '@/assets/images/gallery-1.png';
-import gallery2 from '@/assets/images/gallery-2.png';
-import gallery3 from '@/assets/images/gallery-3.png';
-import gallery4 from '@/assets/images/gallery-4.png';
-import heroImage from '@/assets/images/hero.png';
-import aboutImage from '@/assets/images/about.png';
-import storefront from '@assets/Screenshot_2026-06-15_130020_1781508657208.png';
-import tiramisuLatte from '@assets/Screenshot_2026-06-15_130035_1781508657210.png';
+import storefront from '@assets/Screenshot_2026-06-15_130020_1781509931878.png';
+import tiramisuLatte from '@assets/Screenshot_2026-06-15_130035_1781509931878.png';
+import dessertOfMonth from '@assets/73644_1781509947295.jpg';
+import freshFlowers from '@assets/73645_1781509947295.jpg';
+import coffeeAndFriends from '@assets/73643_1781509947296.jpg';
+import linens from '@assets/73642_1781509947297.jpg';
+import cafeInterior from '@assets/73641_1781509947298.jpg';
 
 const images = [
   { src: storefront, alt: "Silsila Café storefront", className: "col-span-1 md:col-span-2 row-span-2" },
   { src: tiramisuLatte, alt: "Tiramisu latte", className: "col-span-1 row-span-2" },
-  { src: gallery1, alt: "Cafe interior", className: "col-span-1 row-span-1" },
-  { src: gallery2, alt: "Espresso machine", className: "col-span-1 row-span-1" },
-  { src: heroImage, alt: "Latte art top down", className: "col-span-1 md:col-span-2 row-span-1" },
-  { src: aboutImage, alt: "Barista working", className: "col-span-1 row-span-1" },
-  { src: gallery3, alt: "Pastries", className: "col-span-1 row-span-1" },
-  { src: gallery4, alt: "People enjoying coffee", className: "col-span-1 row-span-1" },
+  { src: dessertOfMonth, alt: "Star dessert of the month", className: "col-span-1 row-span-1" },
+  { src: freshFlowers, alt: "Fresh flowers at the counter", className: "col-span-1 row-span-1" },
+  { src: coffeeAndFriends, alt: "Coffee and friends", className: "col-span-1 md:col-span-2 row-span-1" },
+  { src: linens, alt: "Curated café interior with linens", className: "col-span-1 row-span-2" },
+  { src: cafeInterior, alt: "Busy café day", className: "col-span-1 md:col-span-1 row-span-1" },
 ];
 
 export function Gallery() {
