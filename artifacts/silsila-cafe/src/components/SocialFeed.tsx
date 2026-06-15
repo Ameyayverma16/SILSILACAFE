@@ -1,20 +1,20 @@
 import { motion } from 'framer-motion';
 import { Instagram } from 'lucide-react';
 
-import menuCoffee from '@/assets/images/menu-coffee.png';
-import menuBrunch from '@/assets/images/menu-brunch.png';
-import gallery2 from '@/assets/images/gallery-2.png';
-import gallery3 from '@/assets/images/gallery-3.png';
-import gallery4 from '@/assets/images/gallery-4.png';
-import menuSpecial from '@/assets/images/menu-special.png';
+import heartToHeart from '@assets/73646_(1)_1781510366143.jpg';
+import grilledVeggie from '@assets/73651_1781510366143.jpg';
+import mushroomMelt from '@assets/73650_1781510366144.jpg';
+import pulledChicken from '@assets/73649_1781510366145.jpg';
+import pestoSandwich from '@assets/73652_1781510366145.jpg';
+import lifeAtSilsila from '@assets/73647_(1)_1781510411536.jpg';
 
 const feedImages = [
-  menuCoffee,
-  gallery4,
-  gallery3,
-  menuBrunch,
-  gallery2,
-  menuSpecial
+  heartToHeart,
+  grilledVeggie,
+  mushroomMelt,
+  pulledChicken,
+  pestoSandwich,
+  lifeAtSilsila,
 ];
 
 export function SocialFeed() {
